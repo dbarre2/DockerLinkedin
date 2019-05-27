@@ -1,0 +1,16 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "conversationService",
+      "experienceService",
+      "feedService",
+      "gateway-appV3"
+    ],
+    "directoryPath": "../",
+    "gatewayType": "zuul",
+    "clusteredDbApps": [],
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "ZjYyYzE2ODY0M2RjM2JhZWFjMTY5MjRhOGZjMzNkNzM5NWE5MzBkMWNmNTQ0MzdkYTEwNzkwZmMxYWQ5YmNlMzczNjg0MWM1YzE0YmVmZmFhM2YzYTM0YTg2NTU2NmUyOThlMg=="
+  }
+}
